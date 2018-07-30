@@ -20,7 +20,7 @@ Simply add to your `pawn.json` and include:
 
 ```json
 {
-    "dependencies": ["Dystopian-Roleplay/timeutil"]
+    "dependencies": ["Dystopian-Roleplay/timeutil@2.0.0"]
 }
 ```
 
